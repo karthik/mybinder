@@ -1,4 +1,4 @@
-FROM andrewosh/binder-base
+FROM rocker/tidyverse
 
 USER root
 
